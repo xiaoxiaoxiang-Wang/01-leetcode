@@ -1,26 +1,19 @@
-#include <map>
-using std::map;
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-		if (s.length()<1) {
-			return 0;
-		}
-		map<char, int> m;
-		m[s[0]] = 0;
-		int rt = 1;
-		int index = 0;
-		for (int i = 1; i<s.length(); i++) {
-			if (m.find(s[i]) != m.end()) {
-				rt = rt>m.size() ? rt : m.size();
-				int k = m[s[i]];
-				for (int j = index; j <= k; j++) {
-					m.erase(s[j]);
-				}
-				index = k+1;
-			}
-			m[s[i]] = i;
-		}
-		return rt>m.size() ? rt : m.size();     
+    int lengthOfLongestSubstring(string s)
+    {
+        // location of prev same character
+        unordered_map<char, int> m;
+        int rt = 0;
+        int index = 0;
+        for (int i = 0; i < s.length(); i++) {
+            // in map
+            if (m.find(s[i]) != m.end() && m[s[i]] >= index) {
+                rt = rt > i - index ? rt : i - index;
+                index = m[s[i]] + 1;
+            }
+            m[s[i]] = i;
+        }
+        return rt > s.length() - index ? rt : s.length() - index;
     }
 };
