@@ -43,6 +43,10 @@ Memory Usage:less than 95.47%
 tips:math  
 Runtime:faster than 100.00%   
 Memory Usage:less than 93.96%   
+# 72. Edit Distance
+tips:dynamic programming    
+Runtime:faster than 56.16%   
+Memory Usage:less than 52.66%  
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
