@@ -34,7 +34,11 @@ Memory Usage:less than 54.95%
 # 56. Merge Intervals
 tips:greedy  
 Runtime:faster than 98.73%  
-Memory Usage:less than 99.24%   
+Memory Usage:less than 99.24%  
+# 57. Insert Interval
+tips:greedy  
+Runtime:faster than 99.93%   
+Memory Usage:less than 95.47%  
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
