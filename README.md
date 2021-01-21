@@ -23,6 +23,10 @@ Memory Usage:less than 72.42%
 tips:DFS+Backtracking 
 Runtime:faster than 100.00%  
 Memory Usage:less than 94.95% 
+# 42. Trapping Rain Water
+tips:stack 
+Runtime:faster than 100.00%  
+Memory Usage:less than 85.90% 
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
