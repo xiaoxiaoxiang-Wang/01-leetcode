@@ -11,6 +11,10 @@ Memory Usage:less than 98.08%
 tips£ºdynamic programming
 Runtime:faster than 100.00%  
 Memory Usage:less than 72.15%
+# 23. Merge k Sorted Lists
+tips£ºpriority_queue  
+Runtime:faster than 94.18%%  
+Memory Usage:less than 91.47%
 # 432. All O`one Data Structure
 tips£ºunordered_map+list+list
 Runtime:faster than 79.61%  
