@@ -31,6 +31,10 @@ Memory Usage:less than 85.90%
 tips:dynamic programming   
 Runtime:faster than 56.60%  
 Memory Usage:less than 54.95%   
+# 56. Merge Intervals
+tips:greedy  
+Runtime:faster than 98.73%  
+Memory Usage:less than 99.24%   
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
