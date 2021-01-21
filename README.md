@@ -12,9 +12,13 @@ tips:dynamic programming
 Runtime:faster than 100.00%  
 Memory Usage:less than 72.15%
 # 23. Merge k Sorted Lists
-tips£ºpriority_queue  
-Runtime:faster than 94.18%%  
+tips:priority_queue  
+Runtime:faster than 94.18%  
 Memory Usage:less than 91.47%
+# 32. Longest Valid Parentheses
+tips:dynamic programming  
+Runtime:faster than 88.50%  
+Memory Usage:less than 72.42% 
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
