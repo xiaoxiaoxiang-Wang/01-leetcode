@@ -39,6 +39,10 @@ Memory Usage:less than 99.24%
 tips:greedy  
 Runtime:faster than 99.93%   
 Memory Usage:less than 95.47%  
+# 60. Permutation Sequence
+tips:math  
+Runtime:faster than 100.00%   
+Memory Usage:less than 93.96%   
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
