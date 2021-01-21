@@ -19,6 +19,10 @@ Memory Usage:less than 91.47%
 tips:dynamic programming  
 Runtime:faster than 88.50%  
 Memory Usage:less than 72.42% 
+# 37. Sudoku Solver
+tips:DFS+Backtracking 
+Runtime:faster than 100.00%  
+Memory Usage:less than 94.95% 
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
