@@ -47,6 +47,10 @@ Memory Usage:less than 93.96%
 tips:dynamic programming    
 Runtime:faster than 56.16%   
 Memory Usage:less than 52.66%  
+# 224. Basic Calculator
+tips:dfs    
+Runtime:faster than 94.41%   
+Memory Usage:less than 97.27%  
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
