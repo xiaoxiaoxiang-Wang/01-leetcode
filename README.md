@@ -55,3 +55,7 @@ Memory Usage:less than 97.27%
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
 Memory Usage:less than 82.85%
+# 752. Open the Lock  
+tips:bfs  
+Runtime:faster than 86.12%  
+Memory Usage:less than 74.78%
