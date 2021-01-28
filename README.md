@@ -55,6 +55,10 @@ Memory Usage:less than 97.27%
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
 Memory Usage:less than 82.85%
+# 713. Subarray Product Less Than K
+tips:fast slow pointer  
+Runtime:faster than 96.69%  
+Memory Usage:less than 76.47%%
 # 752. Open the Lock  
 tips:bfs  
 Runtime:faster than 86.12%  
