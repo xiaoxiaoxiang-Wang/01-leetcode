@@ -58,7 +58,11 @@ Memory Usage:less than 82.85%
 # 713. Subarray Product Less Than K
 tips:fast slow pointer  
 Runtime:faster than 96.69%  
-Memory Usage:less than 76.47%%
+Memory Usage:less than 76.47%  
+# 718. Maximum Length of Repeated Subarray
+tips:dynamic programming    
+Runtime:faster than 76.58%    
+Memory Usage:less than 96.84%  
 # 752. Open the Lock  
 tips:bfs  
 Runtime:faster than 86.12%  
