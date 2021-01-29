@@ -63,6 +63,10 @@ Memory Usage:less than 76.47%
 tips:dynamic programming    
 Runtime:faster than 76.58%    
 Memory Usage:less than 96.84%  
+721. Accounts Merge
+tips:unionfind    
+Runtime:faster than 94.46%    
+Memory Usage:less than 90.07%  
 # 752. Open the Lock  
 tips:bfs  
 Runtime:faster than 86.12%  
