@@ -7,6 +7,10 @@ Memory Usage:less than 76.39%
 tips:binary search  
 Runtime:faster than 99.60%  
 Memory Usage:less than 98.08%
+# 5. Longest Palindromic Substring
+tips: manacher  
+Runtime:faster than 82.83%  
+Memory Usage:less than 61.40%  
 # 10. Regular Expression Matching
 tips:dynamic programming  
 Runtime:faster than 100.00%  
