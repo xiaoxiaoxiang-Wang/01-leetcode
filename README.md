@@ -75,4 +75,11 @@ Memory Usage:less than 90.07%
 tips:bfs  
 Runtime:faster than 86.12%  
 Memory Usage:less than 74.78%
-#
+# 837. New 21 Game
+tips:dynamic programming+math  
+Runtime:faster than 100.00%    
+Memory Usage:less than 36.28%  
+# 903. Valid Permutations for DI Sequence
+tips:dynamic programming  
+Runtime:faster than 100.00%    
+Memory Usage:less than 44.72% 
