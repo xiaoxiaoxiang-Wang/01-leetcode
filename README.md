@@ -75,10 +75,18 @@ Memory Usage:less than 90.07%
 tips:bfs  
 Runtime:faster than 86.12%  
 Memory Usage:less than 74.78%
+# 802. Find Eventual Safe States
+tips:dfs+graph  
+Runtime:faster than 89.67%    
+Memory Usage:less than 96.38%  
 # 837. New 21 Game
 tips:dynamic programming+math  
 Runtime:faster than 100.00%    
 Memory Usage:less than 36.28%  
+# 849. Maximize Distance to Closest Person
+tips: no tips  
+Runtime:faster than 99.45%    
+Memory Usage:less than 88.76%  
 # 903. Valid Permutations for DI Sequence
 tips:dynamic programming  
 Runtime:faster than 100.00%    
