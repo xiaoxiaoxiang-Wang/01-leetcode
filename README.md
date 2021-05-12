@@ -55,10 +55,42 @@ Memory Usage:less than 52.66%
 tips:dfs    
 Runtime:faster than 94.41%   
 Memory Usage:less than 97.27%  
+# 410. Split Array Largest Sum
+tips:binary search    
+Runtime:faster than 68.80%  
+Memory Usage:less than 70.39% 
+# 413. Arithmetic Slices
+tips:math  
+Runtime:faster than 100.00%  
+Memory Usage:less than 84.36%  
+# 417. Pacific Atlantic Water Flow
+tips:dfs  
+Runtime:faster than 58.46%  
+Memory Usage:less than 76.74%  
+# 424. Longest Repeating Character Replacement
+tips:deque  
+Runtime:faster than 70.94%  
+Memory Usage:less than 6.67%  
 # 432. All O`one Data Structure
 tips:unordered_map+list+list  
 Runtime:faster than 79.61%  
-Memory Usage:less than 82.85%
+Memory Usage:less than 82.85%  
+# 440. K-th Smallest in Lexicographical Order
+tips:math+tree  
+Runtime:faster than 100.00%  
+Memory Usage:less than 5.56%   
+# 446. Arithmetic Slices II - Subsequence
+tips:dynamic programming    
+Runtime:faster than 92.95%  
+Memory Usage:less than 82.37%   
+# 449. Serialize and Deserialize BST
+tips:tree    
+Runtime:faster than 89.25%  
+Memory Usage:less than 52.07%  
+# 458. Poor Pigs
+tips:math  
+Runtime:faster than 100.00%  
+Memory Usage:less than 89.39%  
 # 713. Subarray Product Less Than K
 tips:fast slow pointer  
 Runtime:faster than 96.69%  
