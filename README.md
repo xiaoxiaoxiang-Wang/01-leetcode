@@ -51,6 +51,26 @@ Memory Usage:less than 93.96%
 tips:dynamic programming    
 Runtime:faster than 56.16%   
 Memory Usage:less than 52.66%  
+# 75. Sort Colors
+tips:no tips      
+Runtime:faster than 100.00%   
+Memory Usage:less than 15.88%    
+# 76. Minimum Window Substring
+tips:fast slow pointer       
+Runtime:faster than 87.98%   
+Memory Usage:less than 87.56%      
+# 79. Word Search  
+tips:dfs       
+Runtime:faster than 100.00%   
+Memory Usage:less than 10.96%      
+# 84. Largest Rectangle in Histogram  
+tips:stack       
+Runtime:faster than 71.30%   
+Memory Usage:less than 65.54%  
+# 85. Maximal Rectangle 
+tips:stack       
+Runtime:faster than 53.71%   
+Memory Usage:less than 40.75%  
 # 224. Basic Calculator
 tips:dfs    
 Runtime:faster than 94.41%   
