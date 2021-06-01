@@ -71,6 +71,26 @@ Memory Usage:less than 65.54%
 tips:stack       
 Runtime:faster than 53.71%   
 Memory Usage:less than 40.75%  
+# 91. Decode Ways 
+tips:dynamic programming       
+Runtime:faster than 100.00%   
+Memory Usage:less than 50.71%  
+# 92. Reverse Linked List II 
+tips:list       
+Runtime:faster than 100.00%   
+Memory Usage:less than 91.76%  
+# 97. Interleaving String 
+tips:dynamic programming or bfs       
+Runtime:faster than 100.00%   
+Memory Usage:less than 48.63%  
+# 99. Recover Binary Search Tree 
+tips:tree         
+Runtime:faster than 99.69%   
+Memory Usage:less than 51.40%  
+# 115. Distinct Subsequences 
+tips:dynamic programming or bfs          
+Runtime:faster than 83.27%   
+Memory Usage:less than 77.04%  
 # 224. Basic Calculator
 tips:dfs    
 Runtime:faster than 94.41%   
