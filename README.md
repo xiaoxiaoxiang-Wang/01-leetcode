@@ -91,6 +91,30 @@ Memory Usage:less than 51.40%
 tips:dynamic programming or bfs          
 Runtime:faster than 83.27%   
 Memory Usage:less than 77.04%  
+# 123. Best Time to Buy and Sell Stock III 
+tips:dynamic programming           
+Runtime:faster than 16.90%   
+Memory Usage:less than 90.49%    
+# 124. Binary Tree Maximum Path Sum   
+tips:dynamic programming           
+Runtime:faster than 64.93%     
+Memory Usage:less than 92.09%      
+# 128. Longest Consecutive Sequence   
+tips:hash map             
+Runtime:faster than 40.45%     
+Memory Usage:less than 7.41%     
+# 140. Word Break II   
+tips:dfs and cache             
+Runtime:faster than 100.00%     
+Memory Usage:less than 27.04% 
+# 145. Binary Tree Postorder Traversal     
+tips:tree             
+Runtime:faster than 100.00%     
+Memory Usage:less than 82.35% 
+# 146. LRU Cache 
+tips:hash map and list          
+Runtime:faster than 14.56%     
+Memory Usage:less than 77.94%    
 # 224. Basic Calculator
 tips:dfs    
 Runtime:faster than 94.41%   
