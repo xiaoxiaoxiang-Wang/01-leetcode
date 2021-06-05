@@ -115,6 +115,14 @@ Memory Usage:less than 82.35%
 tips:hash map and list          
 Runtime:faster than 14.56%     
 Memory Usage:less than 77.94%    
+# 153. Find Minimum in Rotated Sorted Array
+tips:divide and conquer         
+Runtime:faster than 100.00%     
+Memory Usage:less than 67.04%  
+# 154. Find Minimum in Rotated Sorted Array II
+tips:divide and conquer         
+Runtime:faster than 90.14%     
+Memory Usage:less than 54.05%  
 # 224. Basic Calculator
 tips:dfs    
 Runtime:faster than 94.41%   
@@ -155,6 +163,14 @@ Memory Usage:less than 52.07%
 tips:math  
 Runtime:faster than 100.00%  
 Memory Usage:less than 89.39%  
+# 472. Concatenated Words  
+tips:dictionary tree
+Runtime:faster than 31.59%  
+Memory Usage:less than 43.51%  
+# 493. Reverse Pairs
+tips:binary indexed tree  
+Runtime:faster than 73.72%  
+Memory Usage:less than 65.86%  
 # 713. Subarray Product Less Than K
 tips:fast slow pointer  
 Runtime:faster than 96.69%  
