@@ -119,14 +119,30 @@ Memory Usage:less than 77.94%
 tips:divide and conquer         
 Runtime:faster than 100.00%     
 Memory Usage:less than 67.04%  
-# 154. Find Minimum in Rotated Sorted Array II
+# 154. Find Minimum in Rotated Sorted Array II  
 tips:divide and conquer         
 Runtime:faster than 90.14%     
 Memory Usage:less than 54.05%  
-# 224. Basic Calculator
-tips:dfs    
-Runtime:faster than 94.41%   
-Memory Usage:less than 97.27%  
+# 164. Maximum Gap
+tips:bucket         
+Runtime:faster than 5.01%     
+Memory Usage:less than 5.29%  
+# 188. Best Time to Buy and Sell Stock IV  
+tips:dynamic programming           
+Runtime:faster than 100.00%     
+Memory Usage:less than 90.20%  
+# 200. Number of Islands  
+tips:dynamic programming           
+Runtime:faster than 94.53%     
+Memory Usage:less than 22.12%    
+# 200. Number of Islands  
+tips:dynamic programming           
+Runtime:faster than 94.53%     
+Memory Usage:less than 22.12%    
+# 204. Count Primes
+tips:math    
+Runtime:faster than 40.11%   
+Memory Usage:less than 71.58%  
 # 410. Split Array Largest Sum
 tips:binary search    
 Runtime:faster than 68.80%  
